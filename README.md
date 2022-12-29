@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DragosGreg
-- 👀 I’m interested in Wwb Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on small projects
 - 📫 Discord : DragosGreg#0564
