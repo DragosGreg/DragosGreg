@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DragosGreg
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on small projects
-- 📫 Discord : DragosGreg#0564
+- 👋 Hi, I’m @DragosGreg.
+- 👀 I’m interested in Software Dev.
+- 🌱 I’m currently learning JavaScript and Python.
+- 💞️ I’m looking to collaborate on small projects.
+- 📫 Discord : DragosGreg#0564.
 
 <!---
 DragosGreg/DragosGreg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
