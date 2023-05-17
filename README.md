@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DragosGreg.
 - 👀 I’m interested in  Software Development .
-- 🌱 I’m currently learning  HTML5 · CSS · JavaScript · MySQL · Python · Azure Database .
+- 🌱 I’m currently learning  HTML5 · CSS · JavaScript · MySQL · Python .
 - 💞️ I’m looking to collaborate on small projects.
 - 📫 Discord : DragosGreg#0564.
 
