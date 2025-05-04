@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋 Hi, I’m   @DragosGreg.<br>👀 I’m interested in Software Development.<br>🌱 I’m currently learning  React.<br>💞️ I’m looking to collaborate on small projects.<br>📫 Discord : DragosGreg#0564.
+👋 Hi, I’m   @DragosGreg.<br>👀 I’m interested in Data Security.<br>🌱 I’m currently study Software Engineering.<br>💞️ I’m looking to collaborate on small projects.<br>📫 Discord : DragosGreg#0564.
 
 
 # 💻 Tech Stack:
