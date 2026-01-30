@@ -9,6 +9,9 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-00CC99?style=for-the-badge&logo=zapier&logoColor=white)
 ![MDM](https://img.shields.io/badge/MDM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-006699?style=for-the-badge&logo=cisco&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DragosGreg&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DragosGreg&theme=algolia&hide_border=true)<br/>
