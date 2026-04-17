@@ -14,6 +14,11 @@
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-006699?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=cybersecurity&logoColor=white)
 ![Parrot OS](https://img.shields.io/badge/Parrot%20OS-1ABC9C?style=for-the-badge&logo=parrot&logoColor=white)
+![Linear](https://img.shields.io/badge/Linear-000000?style=for-the-badge&logo=linear&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white)
+![Apple Device Management](https://img.shields.io/badge/Apple_Device_Management-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Bitdefender GravityZone](https://img.shields.io/badge/Bitdefender_GravityZone-ED1C24?style=for-the-badge&logo=bitdefender&logoColor=white)
+![Google Workspace Admin](https://img.shields.io/badge/Google_Workspace_Admin-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 
 # 📊 GitHub Stats:
