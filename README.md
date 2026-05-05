@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋 Hi, I'm @DragosGreg.
+👋 Hi, I'm @DragosGreg.<br>
 ☁️ Transitioning into Cloud Engineering with hands-on GCP experience and a background in IT infrastructure.
 Currently pursuing AWS Cloud Practitioner | Interested in Cloud · DevOps · Automation<br>🌱 I’m currently study Software Engineering.<br>💞️ I’m looking to collaborate on small projects.<br>📫 Discord : DragosGreg#0564.
 
