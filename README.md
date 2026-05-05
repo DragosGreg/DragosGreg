@@ -1,24 +1,17 @@
 
 # 💫 About Me:
-👋 Hi, I’m   @DragosGreg.<br>👀 I’m interested in Software Engineering • SOC Analyst • Cloud Infrastructure Support • Automation Engineer • QA Tester.<br>🌱 I’m currently study Software Engineering.<br>💞️ I’m looking to collaborate on small projects.<br>📫 Discord : DragosGreg#0564.
-
+👋 Hi, I'm @DragosGreg.
+☁️ Transitioning into Cloud Engineering with hands-on GCP experience and a background in IT infrastructure.
+Currently pursuing AWS Cloud Practitioner | Interested in Cloud · DevOps · Automation<br>🌱 I’m currently study Software Engineering.<br>💞️ I’m looking to collaborate on small projects.<br>📫 Discord : DragosGreg#0564.
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![n8n](https://img.shields.io/badge/n8n-%23EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-00CC99?style=for-the-badge&logo=zapier&logoColor=white)
-![MDM](https://img.shields.io/badge/MDM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-006699?style=for-the-badge&logo=cisco&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=cybersecurity&logoColor=white)
-![Parrot OS](https://img.shields.io/badge/Parrot%20OS-1ABC9C?style=for-the-badge&logo=parrot&logoColor=white)
-![Linear](https://img.shields.io/badge/Linear-000000?style=for-the-badge&logo=linear&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white)
-![Apple Device Management](https://img.shields.io/badge/Apple_Device_Management-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Bitdefender GravityZone](https://img.shields.io/badge/Bitdefender_GravityZone-ED1C24?style=for-the-badge&logo=bitdefender&logoColor=white)
-![Google Workspace Admin](https://img.shields.io/badge/Google_Workspace_Admin-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%23EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Zapier](https://img.shields.io/badge/Zapier-00CC99?style=for-the-badge&logo=zapier&logoColor=white) ![Google Workspace Admin](https://img.shields.io/badge/Google_Workspace_Admin-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Apple Device Management](https://img.shields.io/badge/Apple_Device_Management-000000?style=for-the-badge&logo=apple&logoColor=white) ![Bitdefender GravityZone](https://img.shields.io/badge/Bitdefender_GravityZone-ED1C24?style=for-the-badge&logo=bitdefender&logoColor=white) ![Linear](https://img.shields.io/badge/Linear-000000?style=for-the-badge&logo=linear&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=cybersecurity&logoColor=white)
+
+
 
 
 # 📊 GitHub Stats:
